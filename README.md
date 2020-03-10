@@ -1,2 +1,2 @@
 # Unity-transparent-app-template
-Template for transparent background application with Unity engine and Window
+Template for transparent background application with Unity engine and Windows
